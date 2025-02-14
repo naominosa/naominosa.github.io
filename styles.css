@@ -188,7 +188,7 @@ input[type="checkbox"] {
 }
 @media screen and (max-width:600px){
     .form-container{
-        background-image: url('../images/chris-lee-70l1tDAI6rM-unsplash\ 1.svg');
+        background-image: url('chris-lee-70l1tDAI6rM-unsplash\ 1.svg');
         background-repeat: no-repeat;
         background-size: cover;
         height: 120vh;
